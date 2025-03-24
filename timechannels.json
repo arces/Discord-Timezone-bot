@@ -1,0 +1,28 @@
+{
+  "1332975254464888885": {
+    "PST": {
+      "channelId": "1335443655082774611",
+      "timezone": "America/Los_Angeles"
+    },
+    "CET": {
+      "channelId": "1335446130221387886",
+      "timezone": "Europe/Berlin"
+    },
+    "SGT": {
+      "channelId": "1335446685488255046",
+      "timezone": "Asia/Singapore"
+    },
+    "WAT": {
+      "channelId": "1335446870042087504",
+      "timezone": "Africa/Lagos"
+    },
+    "WEST": {
+      "channelId": "1335446894184235132",
+      "timezone": "Africa/Casablanca"
+    },
+    "UAE": {
+      "channelId": "1335447881812934696",
+      "timezone": "Asia/Dubai"
+    }
+  }
+}
